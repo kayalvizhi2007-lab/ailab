@@ -1,0 +1,28 @@
+===== LOST AND FOUND SYSTEM =====
+1. Add Lost Object
+2. Add Found Object
+3. Match Objects
+4. Exit
+Enter choice: 1
+Object Name: bag
+Color: black
+Lost Place: library
+Lost object added successfully!
+
+===== LOST AND FOUND SYSTEM =====
+1. Add Lost Object
+2. Add Found Object
+3. Match Objects
+4. Exit
+Enter choice: 2
+Object Name: bag
+Color: black
+Found Place: library
+Found object added successfully!
+Enter choice: 3
+=== MATCH FOUND ===
+Object: bag
+Color: black
+Found Place: library
+Match Score: 100 %
+
